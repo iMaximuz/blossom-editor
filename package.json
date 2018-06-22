@@ -1,0 +1,11 @@
+{
+  "name": "blossom-editor",
+  "version": "0.0.0",
+  "description": "The Blossom Engine Editor app made with electron and vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Almaguer <luis.almaguerdlg@gmail.com>",
+  "license": "MIT"
+}
