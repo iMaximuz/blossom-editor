@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMaximuz/blossom-editor.git"
+  },
   "author": "Luis Almaguer <luis.almaguerdlg@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.3",
+    "electron-webpack": "^2.1.2",
+    "webpack": "^4.12.0"
+  }
 }
